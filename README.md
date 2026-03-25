@@ -14,9 +14,9 @@ It fetches real-time weather data using OpenWeather APP.
 - Tkinter
 - Requests
 - OpenWeather API
-
-## 📸 Preview
-(Add your screenshot here)
+- 
+## 📸 Screenshot
+![App Screenshot](screenshot.png)
 
 ## ▶️ How to Run
 ```bash
